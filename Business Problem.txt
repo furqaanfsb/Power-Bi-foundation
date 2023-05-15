@@ -1,0 +1,51 @@
+# CASE STUDY 
+(Part 1)-----
+    As a marketing VP of an ecommerce gaint, the client would like to identify all the Young and 
+    Senior citizen customers who spent less than $6 on an average per transaction starting from year 2010 till date
+    The purpose is to reach out to these customers through email campaign
+    so that those customers utilize those campaigns to buy more
+
+(Part 2) ----
+    Make a report that can help the VP slice and dice data to understand the picture across 
+    various countries for different time periods and demographics
+
+
+Approach (how do we go about solving this)
+
+1. Understand the business problem well
+
+2. What kind of data would be required - 
+   -Order detail (may not necessraily have the product detail)..
+ which customer contributed to what spends on what dates
+   - Cust detail - demographics (age), email?
+
+3. Data Understanding
+   - Rows and col (var)
+   - Eyeball the data (look at the top and bottom records)
+   - What each of the var mean (data dictionary doc)
+      (VAR  |  DESC   |   DATA TYPE)
+   - Level or granularity of the data
+   - Data types (categorial, date, cont, string)
+   - Data Quality checks (missing values, error, outliers, duplicates)
+   - Unique values, # of unique cat
+   - Stats - Min, Max, Median, Mean, SD
+
+4. Data Manipulations
+   - Rows - add rows, del row
+   - Col - add, del , rename
+   - Filtering (scoping the analysis)
+   - Changing the values of the records based on a condition (replacing values)
+     - Missing value treatment
+     - Outlier treatment
+     - String/ number manipulations
+Low <-> low
+   - Change the data types (correct)
+   - Sorting
+   - Grouping/ Aggregation/ Roll Up
+
+
+
+
+
+
+
