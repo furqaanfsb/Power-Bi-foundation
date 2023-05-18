@@ -1,0 +1,10 @@
+Assume that you are chosen as a BI expert to work with a huge superstore retailer. You are working with the Market VPS 
+and heads of Consumer Sales department.
+
+There are 3 categories of products that are sold - Furnitures, office Supplies and Technology.
+You are tasked to create a report to help the the clients understand the following-
+Sales Overview -
+1. How is the Sales and Profit for the retailer overall
+2. How has been the YoY change for sales and profit across Years, Quarters and Months 
+3. How is the sales and profit distributed acorss various consumer segments
+4. The distribution of sales by subcategories, under each category
